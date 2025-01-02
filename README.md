@@ -1,0 +1,2 @@
+# Big-Data-Predictive-Analytics-for-NBA-Player-Evaluation-Using-AI-Modeling
+Analyzing NBA player performance and salaries using big data analytics and machine learning. It leverages data preprocessing, statistical analysis, and predictive modeling to provide insights into player metrics, salary allocation, and their relationship with game outcomes. It includes position classification, salary prediction, and evaluation.
